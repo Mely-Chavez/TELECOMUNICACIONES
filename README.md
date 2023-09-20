@@ -59,13 +59,14 @@ MAESTRO: EDUARDO FLORES.
   <li>5.4 Jerarquía general del sistema telefónico</li>
   <li>5.5 Sistema telefónico privado</li>
   <li>5.5.1 Telefonía por VoIP</li>
+</ol>
 
 ### Unidad 6: Comunicaciones Opticas
-
-6.1 Principios de óptica
-6.2 Sistemas de comunicaciones ópticas
-6.3 Fibras ópticas
-6.4 Laser
-6.5 Transmisores y receptores ópticos
-6.6 Comunicación por infrarrojo
+<ol>
+<li>6.1 Principios de óptica</li>
+<li>6.2 Sistemas de comunicaciones ópticas</li>
+<li>6.3 Fibras ópticas</li>
+<li>6.4 Laser</li>
+<li>6.5 Transmisores y receptores ópticos</li>
+<li>6.6 Comunicación por infrarrojo</li> 
 </ol>
