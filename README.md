@@ -70,3 +70,16 @@ MAESTRO: EDUARDO FLORES.
 <li>6.5 Transmisores y receptores ópticos</li>
 <li>6.6 Comunicación por infrarrojo</li> 
 </ol>
+
+### Actividad en clase 2.2 | Señal analógico vs Señal digital
+
+<li>Analógica quiere decir que la información, la señal, para pasar de un valor a otro pasa por todos los valores intermedios, es continua.
+
+La señal digital, en cambio, va “a saltos”, pasa de un valor al siguiente sin poder tomar valores intermedios.
+
+
+Una señal <b>analógica</b> es continua, y puede tomar infinitos valores. 
+
+Una señal <b>digital</b> es discontinua, y sólo puede tomar dos valores o estados: 0 y 1, que pueden ser impulsos eléctricos de baja y alta tensión, interruptores abiertos o cerrados, etc.
+¿Qué es mejor señal analógica o digital?
+La principal diferencia entre sistema digital y sistema analógico radica en que el primero es mucho más preciso y la información se puede almacenar de manera más eficiente y en mayor cantidad que en un sistema analógico.</li>
