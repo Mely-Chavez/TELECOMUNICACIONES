@@ -83,3 +83,16 @@ Una señal <b>analógica</b> es continua, y puede tomar infinitos valores.
 Una señal <b>digital</b> es discontinua, y sólo puede tomar dos valores o estados: 0 y 1, que pueden ser impulsos eléctricos de baja y alta tensión, interruptores abiertos o cerrados, etc.
 ¿Qué es mejor señal analógica o digital?
 La principal diferencia entre sistema digital y sistema analógico radica en que el primero es mucho más preciso y la información se puede almacenar de manera más eficiente y en mayor cantidad que en un sistema analógico.</li>
+
+### ACTIVIDAD 2.3: DIFERENCIAS DE SEÑAL FM Y AM.
+
+>>Ventajas: <<
+
+FM: 
+- Ancho de banda
+- Le afecta menos el ruido
+
+AM: 
+- Mas barato
+- Tiene mas alcance
+</ol>
